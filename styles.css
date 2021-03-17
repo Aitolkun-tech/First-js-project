@@ -1,0 +1,27 @@
+html{
+    box-sizing: border-boxs;
+    background-image: url(https://wallbox.ru/resize/2560x1440/wallpapers/main2/201732/1502383440598c8d502bf394.07997428.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+body html{
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+.keys{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+}
+.key{
+    border: 4px solid black;
+    border-radius: 4px;
+    height: 100px;
+    width: 100px;
+    
+}
